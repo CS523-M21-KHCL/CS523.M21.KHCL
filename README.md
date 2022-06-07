@@ -37,3 +37,4 @@
 * **Số thứ tự chủ đề:** 9 
 * **Tên chủ đề:** Decision Tree
 * **Vấn đề thảo luận:** 
+* - **Slide:** https://www.canva.com/design/DAFAWaLrtPA/j0309tYVeH2n4hTQBIZsqw/view?utm_content=DAFAWaLrtPA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
